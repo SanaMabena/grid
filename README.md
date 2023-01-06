@@ -1,1 +1,1 @@
-Catalogue created using Bootstrap grid system
+Responsive catalogue created using Bootstrap grid system
